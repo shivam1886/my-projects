@@ -14,3 +14,24 @@ Project Description :  kroykari is the leading classifieds app for users in the 
                        users to buy, sell, or find anything in their community.
                        kroykari.com is a website and app available both platform on android and ios
                        where your can buy and sell almost everything. and communicate each them using chat and call
+
+
+
+Name        : buysell.hu
+Concept     : Sell and Buy almost everything
+Platform    : Web , Android and Ios
+Web Url     : https://buysell.hu
+Android     : https://play.google.com/store/apps/details?id=kroykari.app.com
+Ios         :
+Technology  :  Android ( java ), Ios(Swift), Web Frontend (html,css and js),Web Backend (Php,Laravel),mysql(Database),
+                       nodesocket(Chatting)
+Team Size           :  4
+Responsibility      :  Integrate html static files to dynamic and all backend development relatate work like 
+                       make a web pages dynamic , add , edit delete , like , buy product , and mutilanguage functionality , chatting functionality and api with laravel framework
+                       and manage all relatate thing to frontend mangage by admin panle
+Project Description :  buysell.hu is a online buy and sell platform in Hungary, 
+                       including pre owned , new goods. advertise anything and it is available in three languages(Hungarian, German and English) 
+                       equipped with translator for more than 20 languages. explore offers with professional filtering chat with
+                       sellers using the app and also the website find the best sellers in your area using our 
+                       rating system promote your own business using our service for free find the sellers in 
+                       your city, district, neighborhood. save your favorite items for later
