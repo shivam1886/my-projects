@@ -1,0 +1,13 @@
+
+Project Name        : kroykari
+Project Concept     : Sell and Buy almost everything
+Product Url         : https://kroykari.com
+Project Description :  kroykari is the leading classifieds app for users in the Bangladesh.
+                       users to buy, sell, or find anything in their community.
+                       kroykari.com is a website and app available both platform on android and ios
+                       where your can buy and sell almost everything. and communicate each them using chat and call
+Technology          :  Iconic (App Development),Web Frontend (html,css and js),Web Backend (php,laravel),mysql(database),
+                       nodesocket(Chatting)
+Team Size           :  3
+Responsibility      :  Integrate html static files to dynamic and all backend development relatate work like 
+                       make a web pages dynamic and chatting functionality with laravel framework
