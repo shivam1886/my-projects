@@ -4,7 +4,7 @@ Concept     : Sell and Buy almost everything
 Platform    : Web , Android and Ios
 Web Url     : https://kroykari.com
 Android     : https://play.google.com/store/apps/details?id=kroykari.app.com
-Ios         :
+Ios         : 
 Technology  :  Iconic (App Development Android and Ios), Web Frontend (html,css and js),Web Backend (Php,Laravel),mysql(Database),
                        nodesocket(Chatting)
 Team Size           :  3
@@ -14,7 +14,6 @@ Project Description :  kroykari is the leading classifieds app for users in the 
                        users to buy, sell, or find anything in their community.
                        kroykari.com is a website and app available both platform on android and ios
                        where your can buy and sell almost everything. and communicate each them using chat and call
-
 
 
 Name        : buysell.hu
@@ -39,10 +38,10 @@ Project Description :  buysell.hu is a online buy and sell platform in Hungary,
 Name        : Ohcityzgz
 Concept     : Sell and Buy almost everything
 Platform    : Web , Android and Ios
-Web Url     :https://ohcityzgz.com
-Android     :https://play.google.com/store/apps/details?id=com.tech.ohcity
-Ios         :
-Technology  :  Android ( java ), Ios(Swift), Web Frontend (html,css and js),Web Backend (Php,Codeigniter),mysql(Database),
+Web Url     : https://ohcityzgz.com
+Android     : https://play.google.com/store/apps/details?id=com.tech.ohcity
+Ios         : https://apps.apple.com/us/app/ohcityzgz/id1455351231
+Technology  : Android ( java ), Ios(Swift), Web Frontend (html,css and js),Web Backend (Php,Codeigniter),mysql(Database),
 Team Size           :  3
 Responsibility      :  Integrate html static files to dynamic and all backend development relatate work like 
                        make a web pages dynamic , add , edit delete , like , buy product , and mutilanguage functionality , chatting functionality and api with laravel framework
@@ -73,3 +72,100 @@ Project Description :  Ohcityzgz is a online buy and sell platform Spain,
                        sellers using the app and also the website find the best sellers in your area using our 
                        rating system promote your own business using our service for free find the sellers in 
                        your city, district, neighborhood. save your favorite items for later
+                       
+Name        : Jamali
+Concept     : Sell and Buy almost everything
+Platform    : Web , Android and Ios
+Web Url     : https://www.almotelq.com/jamali
+Android     : https://play.google.com/store/apps/details?id=com.jamaliUser(User),
+              https://play.google.com/store/apps/details?id=com.jamalivendor(Business)
+Ios         : https://apps.apple.com/app/id1388359811
+Technology  :  Android ( Ionic ), Ios(Ionic), Web Frontend (html,css and js),Web Backend (Php,Laravel),mysql(Database),
+Team Size           :  2
+Responsibility      :  Integrate html static files to dynamic and all backend development relatate work like 
+                       make a web pages dynamic , add , edit delete , like , buy product , and mutilanguage functionality , chatting functionality and api with laravel framework
+                       and manage all relatate thing to frontend mangage by admin panle
+                       Develop admin panel in Codeigniter and make api product add, edit , delete, like , share , notification , and block 
+Project Description :  Ohcityzgz is a online buy and sell platform Spain, 
+                       including pre owned , new goods. advertise anything and it is available in Spainish languages,
+                       explore offers with professional filtering chat with
+                       sellers using the app and also the website find the best sellers in your area using our 
+                       rating system promote your own business using our service for free find the sellers in 
+                       your city, district, neighborhood. save your favorite items for later
+                       
+                       1. Project Name :  Kroykari
+   Concept      :  Buy and Sell
+   Web Url      :  http://kroykari.com
+   Android Play Store :  https://play.google.com/store/apps/details?id=kroykari.app.com
+   Ios Apple Store    :
+
+2. Project Name :  Buy & Sell
+   Concept      :  Buy and Sell
+   Web Url      :  http://buysell.hu
+   Android Play Store :  https://play.google.com/store/apps/details?id=com.buy_sell
+   Ios Apple Store    : 
+
+3. Project Name :  Richest Life
+   Concept      :  Event Management & E-book Store
+   Web Url      :  https://www.richestlife.com
+   Android Play Store :  
+   Ios Apple Store    :  https://itunes.apple.com/app/id1388359811
+
+4. Project Name :  Aladeen
+   Concept      :  Buy from anywhere
+   Web Url      : https://aladeen.co.uk
+   Android Play Store :  https://play.google.com/store/apps/details?id=com.aledeen
+   Ios Apple Store    : 
+
+5. Project Name :  Cleaning
+   Concept      :  Any Service
+   Web Url      : https://appserviceweb.com/
+   Android Play Store :  https://play.google.com/store/apps/details?id=com.aledeen
+   Ios Apple Store    : 
+
+6. Project Name :  PleaseHelpMe
+   Concept      :  Emergency Alert
+   Web Url      :  https://pleasehelpme.co.za/login
+   Android Play Store : https://play.google.com/store/apps/details?id=app.sosapp.com
+   Ios Apple Store    : 
+
+7. Project Name :  Yopo
+   Concept      :  Serveice
+   Web Url      :  https://yopo.us/
+   Android Play Store : https://play.google.com/store/apps/details?id=com.user.yopo&hl=en,
+                        https://play.google.com/store/apps/details?id=com.vendor.yopo&hl=en
+   Ios Apple Store    : 
+
+8. Project Name :  Doctor First
+   Concept      :  Heath Services
+   Web Url      :  http://doctorfirstapp.com
+   Android Play Store : https://play.google.com/store/apps/details?id=com.doctorfirst&hl=en
+   Ios Apple Store    : 
+
+
+8. Project Name :  Cab Mobile
+   Concept      :  Heath Services
+   Web Url      :  http://doctorfirstapp.com
+   Android Play Store : https://play.google.com/store/apps/details?id=com.doctorfirst&hl=en
+   Ios Apple Store    : 
+
+9. Project Name :  Jamali
+   Concept      :  Services
+   Web Url      :  http://doctorfirstapp.com
+   Android Play Store : https://play.google.com/store/apps/details?id=com.jamaliUser&hl=en,
+                        https://play.google.com/store/apps/details?id=com.jamalivendor&hl=en
+   Ios Apple Store    : 
+
+10. Project Name :  Colusseum Center
+   Concept      :  Game tournament Center
+   Web Url      :  http://doctorfirstapp.com
+   Android Play Store : https://play.google.com/store/apps/details?id=com.jamaliUser&hl=en,
+                        https://play.google.com/store/apps/details?id=com.jamalivendor&hl=en
+   Ios Apple Store    : 
+
+   	
+
+
+   
+
+
